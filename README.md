@@ -5,5 +5,5 @@ test 2
 
 ```mermaid
 flowchart
-  A[Test] --> B[Test2]
+  A[Test] --> B[Test3]
 ```
